@@ -1,8 +1,8 @@
 <h1 align="center">Flavr</h1>
-<h3 align="center">Neobrutalist Restaurant Evaluation & Discovery Platform</h3>
+<h3 align="center">Restaurant Evaluation & Discovery Platform</h3>
 
 <p align="center">
-  A bold, high-contrast platform for transparent restaurant evaluation. <strong>Flavr</strong> combines a striking Neobrutalist design aesthetic with advanced statistical processing to provide food lovers with unbiased rankings, while granting restaurant owners an intuitive CRUD dashboard to manage their presence and engage with their community.
+  A platform for transparent restaurant evaluation. <strong>Flavr</strong> combines a striking Neobrutalist design aesthetic with advanced statistical processing to provide food lovers with unbiased rankings, while granting restaurant owners an intuitive CRUD dashboard to manage their presence and engage with their community.
 </p>
 
 <p align="center">
@@ -16,16 +16,14 @@
 
 ---
 
-### ✨ Core Features
+### Core Features
 
-* **Bayesian Rating System:** Uses an advanced statistical ranking algorithm (similar to IMDb) to calculate weighted ratings, preventing new or low-volume entries with a few 5-star reviews from unfairly skewing the top leaderboards.
-* **Granular Owner Dashboard:** A secure control panel enabling verified restaurant owners to manage operational parameters such as operating hours, accurate geolocations, and dynamic business data.
-* **Role-Based Access Control (RBAC):** Strict server-side authorization patterns that isolate administrative routes, ensuring only authenticated and verified owners can execute mutations on their business profiles.
+* **Bayesian Rating System:** Uses an advanced statistical ranking algorithm to calculate weighted ratings, preventing new or low-volume entries with a few 5-star reviews from unfairly skewing the top leaderboards.
 * **Review Management & Engagement:** Facilitates community trust by allowing verified owners to officially respond to user-generated feedback and address customer reviews.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend Framework & Architecture**
 <p align="left">
@@ -50,7 +48,7 @@
 
 ---
 
-### 📸 Application Showcase
+### Application Showcase
 
 <p align="center">
   <img src="images/0.PNG" width="48%" />
@@ -78,7 +76,7 @@
 
 ---
 
-### 🚀 Getting Started
+### Getting Started
 
 **1. Clone the repository:**
 ```bash
